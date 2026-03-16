@@ -1,10 +1,7 @@
 # Conversor de Moedas
 
-Aplicação web simples que converte valores entre diferentes moedas, desenvolvida utilizando **HTML, CSS e JavaScript**.
-
-## 📷 Preview do Projeto
-
-![Preview do Conversor](conversor-preview.png)
+Este projeto consiste em uma aplicação web simples que realiza a conversão de valores entre diferentes moedas.
+Foi desenvolvido utilizando **HTML5, CSS3 e JavaScript**, com foco na prática de lógica de programação e interação com o usuário.
 
 ## 💱 Funcionalidades
 
@@ -19,11 +16,20 @@ Aplicação web simples que converte valores entre diferentes moedas, desenvolvi
 * CSS3
 * JavaScript
 
+## 📚 Objetivo do projeto
+
+O objetivo deste projeto é praticar conceitos importantes do desenvolvimento web, como:
+
+* Manipulação de elementos da página (DOM)
+* Captura de dados do usuário
+* Realização de cálculos com JavaScript
+* Atualização dinâmica do conteúdo da página
+
 ## 🌐 Acesse o projeto
 
-Acesse o projeto online:
+Você pode visualizar o projeto funcionando através do GitHub Pages:
 
-(coloque aqui o link do seu GitHub Pages)
+(cole aqui o link do seu site)
 
 ## 👨‍💻 Autor
 
