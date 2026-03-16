@@ -29,7 +29,7 @@ O objetivo deste projeto é praticar conceitos importantes do desenvolvimento we
 
 Você pode visualizar o projeto funcionando através do GitHub Pages:
 
-(cole aqui o link do seu site)
+https://faelferrazdev.github.io/conversor-moedas-html/
 
 ## 👨‍💻 Autor
 
